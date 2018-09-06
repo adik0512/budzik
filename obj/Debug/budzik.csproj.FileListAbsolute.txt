@@ -1,0 +1,10 @@
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\budzik\budzik\bin\Debug\budzik.exe.config
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\budzik\budzik\bin\Debug\budzik.exe
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\budzik\budzik\bin\Debug\budzik.pdb
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\budzik\budzik\obj\Debug\budzik.Form1.resources
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\budzik\budzik\obj\Debug\budzik.Properties.Resources.resources
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\budzik\budzik\obj\Debug\budzik.csproj.GenerateResource.Cache
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\budzik\budzik\obj\Debug\budzik.exe
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\budzik\budzik\obj\Debug\budzik.pdb
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\budzik\budzik\obj\Debug\budzik.csprojResolveAssemblyReference.cache
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\budzik\budzik\bin\Debug\sound.wav
